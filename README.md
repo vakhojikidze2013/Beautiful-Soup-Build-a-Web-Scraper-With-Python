@@ -1,2 +1,2 @@
-# quiz4
-ამოვიღე ანიმეების კატეგორიები, სახელები და სხვადასხვა ინფორმაცია.
+# Web scrap 
+get info from web site with beutifulsoap
