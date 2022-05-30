@@ -1,2 +1,2 @@
 # Web scrap 
-get info from web site with beutifulsoap
+Beautiful Soup: Build a Web Scraper With Python
